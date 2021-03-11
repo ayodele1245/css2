@@ -1,0 +1,32 @@
+td {
+    border-top-style: solid;
+    caption-side:top;
+    border-radius: 70px;
+    font-size: 30px;
+    border: 1px solid rgb(114, 82, 82); 
+    text-align: center;
+ }
+
+.fruit, thead{
+    font-size: 50px;
+    text-align: center;
+    border-top-style: solid;
+    caption-side:top;
+    border-radius: 70px;
+}
+
+
+table, tr, td {
+    
+    font-size: 50px;
+}
+
+
+tr:nth-child(even) {  
+    background-color: #a4ac93;
+  }
+
+  th, td {
+    padding: 16px;
+}
+
